@@ -7,6 +7,7 @@ import { Menu } from 'lucide-react'
 const navigation = [
   { name: '首页', href: '/' },
   { name: '产品', href: '/products' },
+  { name: '对比', href: '/#feature-comparison' },
   { name: '关于我们', href: '/about' },
   { name: '联系我们', href: '/contact' },
 ]
